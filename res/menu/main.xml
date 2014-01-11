@@ -1,0 +1,19 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item
+        android:id="@+id/action_settings"
+        android:title="@string/action_settings"/>
+    
+    <item
+        android:id="@+id/action_start"
+        android:title="@string/action_start"/>
+    
+    <item
+        android:id="@+id/action_stop"
+        android:title="@string/action_stop"/>
+    
+    <item
+        android:id="@+id/action_reset"
+        android:title="@string/action_reset"/>
+
+</menu>

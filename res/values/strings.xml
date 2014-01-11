@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">DemoMenus</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_start">Start</string>
+    <string name="action_stop">Stop</string>
+    <string name="action_reset">Reset</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_wellcome">Setting select menu</string>
+    <string name="title_activity_wellcome2">Start select menu</string>
+    <string name="text_wellcome2">Selected menu Start</string>
+<string name="album">album</string>
+</resources>
